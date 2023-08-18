@@ -6,4 +6,5 @@
  *
  */
 module RacerCollegeProject {
+	requires java.desktop;
 }
